@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: white;
+  color: #003366;
+}
+
+header {
+  background: #0077cc;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  background: white;
+  color: #0077cc;
+  border: none;
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
+main {
+  text-align: center;
+  padding: 40px;
+}
+
+.text {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 350px;
+}
+
+.text p {
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
