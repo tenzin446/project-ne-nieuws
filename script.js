@@ -9,39 +9,39 @@ const questions = [
         ]
     },
     {
-        question: "Welke AI wordt veel gebruikt om teksten te genereren?",
+        question: "Welke AI-chatbot is gemaakt door OpenAI?",
         answer: [
-            { text: "Photoshop", correct: false },
+            { text: "Gemini", correct: false },
             { text: "ChatGPT", correct: true },
-            { text: "Excel", correct: false },
-            { text: "Spotify", correct: false },
+            { text: "Alexa", correct: false },
+            { text: "Siri", correct: false },
         ]
     },
     {
-        question: "Wat kan AI doen?",
+        question: "Welke AI-assistent is ontwikkeld door Google?",
         answer: [
-            { text: "Alleen rekenen", correct: false },
-            { text: "Alleen muziek afspelen", correct: false },
-            { text: "Leren van data en voorspellingen maken", correct: true },
-            { text: "Alleen internet gebruiken", correct: false },
+            { text: "Siri", correct: false },
+            { text: "Cortana", correct: false },
+            { text: "Gemini", correct: true },
+            { text: "Bixby", correct: false },
         ]
     },
     {
-        question: "Welke van deze is een voorbeeld van AI in het dagelijks leven?",
+        question: "Welke AI-toepassing wordt gebruikt om gezichten op foto’s te herkennen?",
         answer: [
-            { text: "YouTube-aanbevelingen", correct: true },
-            { text: "Een papieren boek", correct: false },
-            { text: "Een lamp", correct: false },
-            { text: "Een tafel", correct: false },
+            { text: "Natural Language Processing", correct: false },
+            { text: "Gezichtsherkenning", correct: true },
+            { text: "Data Encryptie", correct: false },
+            { text: "Augmented Reality", correct: false },
         ]
     },
     {
-        question: "Wat is een mogelijk nadeel van AI?",
+        question: "Waarom gebruiken bedrijven Artificial Intelligence voor data-analyse?",
         answer: [
-            { text: "Het gebruikt teveel stroom", correct: false },
-            { text: "Privacyproblemen en verkeerde informatie", correct: true },
-            { text: "Het slaat data op", correct: false },
-            { text: "Het maakt soms fouten", correct: false },
+            { text: "Om bestanden kleiner te maken", correct: false },
+            { text: "Om beeldschermen scherper te maken", correct: false },
+            { text: "Om batterijen langer mee te laten gaan", correct: false },
+            { text: "Om sneller patronen en trends te ontdekken", correct: true },
         ]
     }
 ];
